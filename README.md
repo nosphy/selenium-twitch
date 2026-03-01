@@ -5,4 +5,4 @@ Selenium Twitch navigation test
 I was unable to find any twitch channels that open a modal or a pop-up when navigating to their page so i was unable to account for such a case
 
 # Test run locally
-![](https://github.com/nosphy/selenium-twitch/blob/main/Local.gif)
+![](Local.gif)
